@@ -6,6 +6,7 @@ It disables 2 types of notifications:
 
 > **⚠️ Warning:**  
 > Windows Explorer will restart when the script runs, in order to apply changes, obviously you won't lose your work, but the directories you were in will be closed.
+
 ## Notes
 1. I tested it on Win 8.1 and it worked.
 2. Not tested on Win 7, but it should work, you can also comment out the script lines that are specific for Win 8.x.
