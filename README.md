@@ -4,8 +4,10 @@ It disables 2 types of notifications:
 1. **Balloon**: The classic Win 7 desktop notifications that appear in the tray menu.
 2. **Metro/Toast**: The new ones introduced in Win 8.x that appear on top right corner.
 
-> **⚠️ Warning:**  
-> Windows Explorer will restart when the script runs, in order to apply changes, obviously you won't lose your work, but the directories you were in will be closed.
+<blockquote style="font-family: Verdana; border-left: 4px solid red; color: black; background-color: white; padding: 10px; border-radius: 5px;">
+  <strong>⚠️ Warning:</strong><br>
+  Windows Explorer will restart when the script runs, in order to apply changes, obviously you won't lose your work, but the directories you were in will be closed.
+</blockquote>
 
 ## Notes
 1. I tested it on Win 8.1 and it worked.
